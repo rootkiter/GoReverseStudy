@@ -1,0 +1,10 @@
+.DS_Store
+*.so
+*.pyc
+._*
+.nfs.*
+*.i64
+go_parser/*
+samples/*
+panchan/*
+
